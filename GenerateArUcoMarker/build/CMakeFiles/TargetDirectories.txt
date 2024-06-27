@@ -1,0 +1,3 @@
+/home/sazid/Documents/Semester_2/perception_lab/GenerateArUcoMarker/build/CMakeFiles/rebuild_cache.dir
+/home/sazid/Documents/Semester_2/perception_lab/GenerateArUcoMarker/build/CMakeFiles/edit_cache.dir
+/home/sazid/Documents/Semester_2/perception_lab/GenerateArUcoMarker/build/CMakeFiles/generate_marker.dir

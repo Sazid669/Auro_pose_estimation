@@ -1,0 +1,3 @@
+/home/sazid/Documents/Semester_2/perception_lab/ArUcoDetector/build/CMakeFiles/rebuild_cache.dir
+/home/sazid/Documents/Semester_2/perception_lab/ArUcoDetector/build/CMakeFiles/edit_cache.dir
+/home/sazid/Documents/Semester_2/perception_lab/ArUcoDetector/build/CMakeFiles/detect_markers.dir

@@ -1,0 +1,3 @@
+/home/sazid/Documents/Semester_2/perception_lab/CallibreteAcuro/build/CMakeFiles/rebuild_cache.dir
+/home/sazid/Documents/Semester_2/perception_lab/CallibreteAcuro/build/CMakeFiles/edit_cache.dir
+/home/sazid/Documents/Semester_2/perception_lab/CallibreteAcuro/build/CMakeFiles/calibration.dir

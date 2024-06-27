@@ -1,0 +1,3 @@
+/home/sazid/Documents/Semester_2/perception_lab/ArucoPose/build/CMakeFiles/rebuild_cache.dir
+/home/sazid/Documents/Semester_2/perception_lab/ArucoPose/build/CMakeFiles/edit_cache.dir
+/home/sazid/Documents/Semester_2/perception_lab/ArucoPose/build/CMakeFiles/ArucoPose.dir
